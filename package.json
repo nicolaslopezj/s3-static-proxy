@@ -4,7 +4,8 @@
   "description": "S3 static proxy",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon --exec babel-node --presets=es2015 -- index.js"
+    "start": "node index.js",
+    "watch": "nodemon --exec babel-node --presets=es2015 -- index.js"
   },
   "repository": {
     "url": "https://github.com/nicolaslopezj/s3-static-proxy",
