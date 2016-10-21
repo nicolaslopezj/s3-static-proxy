@@ -17,6 +17,9 @@
     "async": "^2.0.0-rc.3",
     "aws-config": "^1.0.7",
     "aws-sdk": "^2.3.3",
+    "babel-cli": "^6.16.0",
+    "babel-preset-es2015": "^6.16.0",
+    "babel-preset-stage-2": "^6.17.0",
     "base64-stream": "^0.1.3",
     "debug": "^2.2.0",
     "express": "^4.14.0",
@@ -25,12 +28,10 @@
     "lodash.reject": "^4.4.0",
     "lodash.trim": "^4.4.0",
     "mime": "^1.3.4",
+    "prerender-node": "^2.4.0",
     "replacestream": "^4.0.2",
     "simple-errors": "^1.0.1",
-    "url-join": "1.1.0",
-    "babel-cli": "^6.16.0",
-    "babel-preset-es2015": "^6.16.0",
-    "babel-preset-stage-2": "^6.17.0"
+    "url-join": "1.1.0"
   },
   "devDependencies": {
     "nodemon": "^1.11.0"

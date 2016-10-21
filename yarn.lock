@@ -2050,6 +2050,12 @@ prepend-http@^1.0.0:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/prepend-http/-/prepend-http-1.0.4.tgz#d4f4562b0ce3696e41ac52d0e002e57a635dc6dc"
 
+prerender-node:
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/prerender-node/-/prerender-node-2.4.0.tgz#034e5c2d2d71bbb18d8938da4b95458abac59b28"
+  dependencies:
+    request "^2.40.0"
+
 preserve@^0.2.0:
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/preserve/-/preserve-0.2.0.tgz#815ed1f6ebc65926f865b310c0713bcb3315ce4b"
@@ -2243,7 +2249,7 @@ replacestream:
     object-assign "^4.0.1"
     readable-stream "^2.0.2"
 
-request@^2.65.0, request@2.x:
+request@^2.40.0, request@^2.65.0, request@2.x:
   version "2.75.0"
   resolved "https://registry.yarnpkg.com/request/-/request-2.75.0.tgz#d2b8268a286da13eaa5d01adf5d18cc90f657d93"
   dependencies:
