@@ -22,3 +22,5 @@ ACCESS_KEY_ID=[ACCESS_KEY_ID]
 SECRET_ACCESS_KEY=[SECRET_ACCESS_KEY]
 PRERENDER_TOKEN=[PRERENDER_TOKEN]
 ```
+
+To deploy your apps you can use [react-deploy-s3](https://github.com/nicolaslopezj/react-deploy-s3)
