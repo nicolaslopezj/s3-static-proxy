@@ -1,6 +1,6 @@
 # S3 Static Proxy
 
-Add SEO to create react app's by using prerender.io.
+Server side rendering solution for create react apps.
 
 This is a express app that connects to a S3 bucket and returns the index.html file,
 and make the client fetch other files directly from S3. If the requester is a scrapper it returns
