@@ -3,7 +3,8 @@
 Add SEO to create react app's by using prerender.io.
 
 This is a express app that connects to a S3 bucket and returns the index.html file,
-and make the client fetch other files directly from S3.
+and make the client fetch other files directly from S3. If the requester is a scrapper it returns
+rendered html code using prerender.io.
 
 # Instructions
 
