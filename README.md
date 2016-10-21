@@ -11,7 +11,7 @@ and make the client fetch other files directly from S3.
 
 - Create a prerender.io account.
 
-- Create a Heroku app pointing to your forked repo.
+- Create a Heroku app pointing to your forked repo (there is no need for a special buildpack).
 
 - Set environment variables.
 
