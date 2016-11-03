@@ -8,11 +8,11 @@ rendered html code using prerender.io.
 
 # Instructions
 
-- Fork this repo.
+- Deploy to heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/nicolaslopezj/s3-static-proxy/tree/master)
 
 - Create a prerender.io account.
-
-- Create a Heroku app pointing to your forked repo (there is no need for a special buildpack).
 
 - Set environment variables.
 
